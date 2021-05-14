@@ -5,4 +5,3 @@ La farmacia PMG pidio una calculadora de IMC (Indice de Masa Corporal) la formul
 2. Nos dira si nuestro peso es saludable
 3. Nos dara el IMC aproximado (redondeado)
 
-En el codigo se encuentra la explicación de que hace cada parte sin embargo se subira luego de que se califique este proyecto
