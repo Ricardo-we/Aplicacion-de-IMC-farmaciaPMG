@@ -5,4 +5,9 @@ La farmacia PMG pidio una calculadora de IMC (Indice de Masa Corporal) la formul
 2. Nos dira si nuestro peso es saludable
 3. Nos dara el IMC aproximado (redondeado)
 
-La calculadora fue comparada con otra para comprobar la veracidad de los datos que nos da y que tan eficaz era, se compararon varios datos y la conclusión fue que la calculadora es completamente funcional, los resultados que nos da son redondeados para mayor entendimiento de los usuarios
+La calculadora fue comparada con otra para comprobar la veracidad de los datos que nos da y que tan eficaz era, se compararon varios datos y la conclusión fue que la calculadora es completamente funcional, los resultados que nos da son redondeados para mayor entendimiento de los usuarios.
+Para probar la aplicacion solo tienes que descargar el archivo .jar 
+_____________________________________________________________________
+|                         !ACTUALIZACION 1!                          |
+---------------------------------------------------------------------
+Se arreglaron algunos errores que tenia la aplicación
